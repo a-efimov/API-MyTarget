@@ -8,7 +8,7 @@
 
 Получившийся датафрейм можно скачать в xls, csv, загрузить в БД, например, в BigQuery, PostgreSQL.
 
-Ссылки с полной документацией:
+Ссылки с полной документацией по API Mytarget:
 - https://target.my.com/help/advertisers/api_arrangement/ru
 - https://target.my.com/help/advertisers/api_arrangement/ru
 - https://target.my.com/help/advertisers/api-marketing/ru
